@@ -1,0 +1,23 @@
+.footer{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+p{
+    font-weight: 600;
+    font-size: 16;
+}
+
+a{
+    color: white;
+}
+
+.icones{
+    padding-top: 20px;
+}
+
+.icones a{
+    padding: 10px;
+}

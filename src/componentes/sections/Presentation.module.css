@@ -1,0 +1,28 @@
+.Presentation{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.Presentation h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.Presentation h4{
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: -20px;
+    margin-bottom: -5px;
+    font-weight: 700;
+}
+
+.Presentation p{
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.btn{
+    margin-left: 80px;
+}
+

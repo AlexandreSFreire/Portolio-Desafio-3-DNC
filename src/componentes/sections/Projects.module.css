@@ -1,0 +1,19 @@
+.Projects{
+    color: white;
+    margin-top: 100px;
+    display: grid;
+    justify-content: center;
+}
+
+.Projects h1{
+    font-weight: 800;
+    margin-left: 230px;
+    font-size: 40px;
+}
+
+.Cards{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 50px 20px;
+}
